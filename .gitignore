@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+[default]
+aws_access_key_id = AKIAQYLPMN5HJ2UNHR4D
+aws_secret_access_key = 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
+output = json
+region = us-east-2
